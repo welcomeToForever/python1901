@@ -1,3 +1,4 @@
+# haha u suck
 def main():
     print('hello')
     print('goodbye')
